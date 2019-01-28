@@ -1,0 +1,1 @@
+{"index.html":"<style>\n  img {\nmax-width: 100%;\ndisplay: block;\nheight:auto;\n\n\n  }\n\n\n\n</style>\n\n<img src=\"https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg\" alt=\"freeCodeCamp stickers set\">"}
